@@ -1,6 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75590&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Fatima+%F0%9F%91%8B;I+am+a+Front-End+Web+Developer" alt="Typing SVG" />
+  <svg width="100%" height="100">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color: #87CEEB; stop-opacity: 1;" />
+        <stop offset="50%" style="stop-color: #B0E0E6; stop-opacity: 1;" />
+        <stop offset="100%" style="stop-color: #87CEEB; stop-opacity: 1;" />
+      </linearGradient>
+      <style>
+        @keyframes textAnimation {
+          0% { fill: url(#gradient); }
+          50% { fill: #B0E0E6; }
+          100% { fill: url(#gradient); }
+        }
+        .animated-text {
+          font-size: 30px;
+          font-family: 'Arial, sans-serif';
+          font-weight: bold;
+          animation: textAnimation 2s linear infinite;
+        }
+      </style>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="animated-text">
+      Hey, I am Fatima, a Front-End Developer
+    </text>
+  </svg>
 </p>
+
 
 
 <!--
