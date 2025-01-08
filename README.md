@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=1C2C73&center=true&vCenter=true&width=600&lines=Hey%2C+I+am+Fatima;I+am+a+Front-End+Developer" alt="Typing SVG" />
+</p>
 
 
 
