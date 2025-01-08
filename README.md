@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=45&duration=4000&pause=500&color=1C2C73&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Fatima;A+Front-End+Web+Developer" alt="Typing SVG" />
 </p>
 <div align="center">
-  <img height="203" src="https://i.ibb.co.com/FHBdttQ/Screenshot-176.png"  />
+  <img height="203" weight="100%" src="https://i.ibb.co.com/FHBdttQ/Screenshot-176.png"  />
 </div>
 
 ###
