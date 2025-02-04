@@ -121,12 +121,19 @@
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=4EA94B">
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jsonwebtokens&svgfill=000000">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032">
   </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
   </a>
 </p>
+
 
 ###
 
