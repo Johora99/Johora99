@@ -13,6 +13,12 @@
 
 <p align="left">Hi there! 👋 I'm Fatima, a passionate Front-End Developer with hands on experience in building responsive and user friendly web applications. Currently, I'm diving deeper into back-end technologies like Express.js and MongoDB to become a well rounded Full Stack Developer.<br><br><br>Mastering full stack development by creating robust, scalable, and modern web applications.<br><br>🚀 Future Ambition:<br>Build impactful web solutions that enhance user experiences and contribute to innovative projects.<br><br>Let's collaborate and create something amazing together! ✨</p>
 
+## 🔭 Current Activities
+- 🌟 Exploring Next.js for better SEO and performance.
+- 🏗️ Building a visa consulting website with React & Node.js.
+- 📚 Learning advanced Tailwind CSS techniques.
+- 🚀 Working on a startup-like project inspired by Product Hunt.
+
 ###
 
 <h3 align="left">💻 Tech Stack:</h3>
