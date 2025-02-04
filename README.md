@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Hi there! 👋 I'm Fatima, a passionate Front-End Developer with hands on experience in building responsive and user friendly web applications. Currently, I'm diving deeper into back-end technologies like Express.js and MongoDB to become a well rounded Full Stack Developer.<br><br><br>Mastering full stack development by creating robust, scalable, and modern web applications.<br><br>🚀 Future Ambition:<br>Build impactful web solutions that enhance user experiences and contribute to innovative projects.<br><br>Let's collaborate and create something amazing together! ✨</p>
+<p align="left">Hi there! 👋 I'm Fatima, a passionate Front-End Developer with hands on experience in building responsive and user friendly web applications. Currently, I'm diving deeper into back-end technologies like Express.js and MongoDB to become a well rounded Full Stack Developer.<br><br><br>Mastering full stack development by creating robust, scalable, and modern web applications.<br>Let's collaborate and create something amazing together! ✨</p>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-tuz-johora-8740562a0/) 
