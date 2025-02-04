@@ -13,6 +13,14 @@
 
 <p align="left">Hi there! 👋 I'm Fatima, a passionate Front-End Developer with hands on experience in building responsive and user friendly web applications. Currently, I'm diving deeper into back-end technologies like Express.js and MongoDB to become a well rounded Full Stack Developer.<br><br><br>Mastering full stack development by creating robust, scalable, and modern web applications.<br><br>🚀 Future Ambition:<br>Build impactful web solutions that enhance user experiences and contribute to innovative projects.<br><br>Let's collaborate and create something amazing together! ✨</p>
 
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-tuz-johora-8740562a0/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Johora99)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/JohoraTuz99))  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/zowriya.zara.9/)  
+
+
+
 ## 🔭 Current Activities
 - 🌟 Exploring Next.js for better SEO and performance.
 - 🏗️ Building a car doctor website with React & Node.js.
@@ -40,6 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+
 
 
 
